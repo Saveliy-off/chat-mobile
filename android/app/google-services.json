@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564088720354",
+    "project_id": "fonned-c02b9",
+    "storage_bucket": "fonned-c02b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564088720354:android:f9a1fd1a0fcd22e42b47bb",
+        "android_client_info": {
+          "package_name": "ru.fonned.fonned"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564088720354-hqhshmv6e9ldar4u1ivgrc3lqpmc4r07.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_YjbTh7kF3ennc39H7PHKl1weOC1GN4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564088720354-hqhshmv6e9ldar4u1ivgrc3lqpmc4r07.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
